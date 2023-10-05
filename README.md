@@ -1,9 +1,6 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo17487
-Fork on GitHub5085
-<h1 align="center">Hi 👋, I'm mikigoalie</h1>
-<p align="left"> <a href="https://twitter.com/mikigoalie" target="blank"><img src="https://img.shields.io/twitter/follow/mikigoalie?logo=twitter&style=for-the-badge" alt="mikigoalie" /></a> </p>
+# Mikigoalie
+I am Michael
+
 
 - 🌱 I’m currently learning **NextJS & React**
 
